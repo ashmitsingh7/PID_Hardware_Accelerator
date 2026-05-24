@@ -1,4 +1,4 @@
-# VLSI-Based PID Hardware Accelerator
+#PID Hardware Accelerator
 
 ## Why I Built This
 
