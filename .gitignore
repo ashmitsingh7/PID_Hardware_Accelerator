@@ -1,13 +1,29 @@
+# Intel Quartus build artifacts
 db/
 incremental_db/
 output_files/
 work/
-
 *.qws
-*.wlf
-*.vcd
-*.bak
 *.rpt
 *.log
+*.bak
+
+# QuestaSim/ModelSim
+work/
 transcript
 vsim.wlf
+*.wlf
+*.vcd
+
+# Backup files
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
